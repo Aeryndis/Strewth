@@ -1,0 +1,124 @@
+<resources>
+    <string name="app_name">Strewth</string>
+
+    <!--Title-->
+
+    <string name="title1">Strewth!</string>
+    <string name="title2">Fun Facts About Australia</string>
+
+    <!--Questions headers-->
+
+    <string name="quest_1">Question 1</string>
+    <string name="question_2">Question 2</string>
+    <string name="question_3">Question 3</string>
+    <string name="question_4">Question 4</string>
+    <string name="question_5">Question 5</string>
+    <string name="question_6">Question 6</string>
+    <string name="question_7">Question 7</string>
+    <string name="question_8">Question 8</string>
+    <string name="question_9">Question 9</string>
+    <string name="question_10">Question 10</string>
+    <string name="question_11">Question 11</string>
+
+    <!--Questions-->
+
+    <string name="q1">Australia is the ____ largest country in the world.</string>
+
+    <string name="q2">Australia is home to ____ of the top 25 most venomous snakes in the world.</string>
+
+    <string name="q3">A monotreme is a mammal that lays eggs. Two exist in the world, both Australian. They are? <b>Select two only!</b></string>
+
+    <string name="q4">Yes, it snows in Australia. The area of Australia that is covered by snow in winter is larger than the area of ____.</string>
+
+    <string name="q5">The longest fence in the world was built in Australia to keep dingoes out of grazing land. How long is it?</string>
+
+    <string name="q6">Which two animals appear in Australia\'s Coat of Arms? <b>Select two only!</b></string>
+
+    <string name="q7">Australians like to gamble. What percentage of the adult population enjoys a flutter?</string>
+
+    <string name="q8">Australia is the lowest continent on earth, with an average height of ____.</string>
+
+    <string name="q9">What are the coldest and hottest temperatures ever recorded in Australia? <b>Select two only!</b></string>
+
+    <string name="q10">Bob Hawke, a former Prime Minister, set a world record for doing what?</string>
+
+    <string name="q11">What Latin expression meaning \"land belonging to nobody\" was used by Captain Cook to lay claim to Australia?</string>
+
+    <!--Answers-->
+
+    <string name="q1a">9th</string>
+    <string name="q1b">4th</string>
+    <string name="q1c">6th</string> <!-- correct answer-->
+    <string name="q1d">5th</string>
+
+    <string name="q2a">20</string> <!-- correct answer-->
+    <string name="q2b">5</string>
+    <string name="q2c">17</string>
+    <string name="q2d">12</string>
+
+    <string name="q3a">Quokka</string>
+    <string name="q3b">Platypus</string> <!-- correct answer-->
+    <string name="q3c">Echidna</string> <!-- correct answer-->
+    <string name="q3d">Bilby</string>
+
+    <string name="q4a">Fiji</string>
+    <string name="q4b">Ireland</string>
+    <string name="q4c">Poland</string>
+    <string name="q4d">Switzerland</string> <!-- correct answer-->
+
+    <string name="q5a">5,614 kms (3,488 mi)</string> <!-- correct answer-->
+    <string name="q5b">2,571 kms (1,597 mi)</string>
+    <string name="q5c">7,042 kms (4,375 mi)</string>
+    <string name="q5d">3,141 kms (1,951 mi)</string>
+
+    <string name="q6a">Kangaroo</string> <!-- correct answer-->
+    <string name="q6b">Crocodile</string>
+    <string name="q6c">Emu</string> <!-- correct answer-->
+    <string name="q6d">Koala</string>
+
+    <string name="q7a">63%</string>
+    <string name="q7b">94%</string>
+    <string name="q7c">80%</string> <!-- correct answer-->
+    <string name="q7d">77%</string>
+
+    <string name="q8a">330 m (1082 ft)</string> <!-- correct answer-->
+    <string name="q8b">120 m (393 ft)</string>
+    <string name="q8c">414 m (1358 ft)</string>
+    <string name="q8d">281 m (921 ft)</string>
+
+    <string name="q9a">53.2 °C (127.76 °F)</string>
+    <string name="q9b">50.7 °C (123.3 °F)</string> <!-- correct answer-->
+    <string name="q9c">-19.4 °C (−2.9 °F)</string>
+    <string name="q9d">−23.0 °C (−9.4 °F)</string> <!-- correct answer-->
+
+    <string name="q10a">Catching the world\'s largest recorded barramundi</string>
+    <string name="q10b">Sculling 2.5 pints of beer in 11 seconds</string> <!-- correct answer-->
+    <string name="q10c">Having the world\'s largest collection of BBQ aprons</string>
+    <string name="q10d">Identifying the most animal species from animal sounds in a minute</string>
+
+    <string name="q11a">Terra nullius</string>
+
+    <!--EditText hint-->
+
+    <string name="ExitText_hint">Answer</string>
+
+    <!--Button-->
+
+    <string name="submit">Tally Me Up!</string>
+    <string name="reset">Try Again Mate!</string>
+
+    <!--Facts-->
+
+    <string name="fact1">Australia is the 6th largest country in the world, at 7,682,300 km² (2,966,200 miles²).</string>
+    <string name="fact2">Australia is home to 20 of the 25 most venomous snakes in the world.</string>
+    <string name="fact3">Echidnas and platypus lay eggs in an underground burrow. The eggs typically hatch within 10 days of laying.</string>
+    <string name="fact4">Australia has several alpine regions in the south east of the country that receive yearly snowfall suitable for winter sports. The total area that gets snow is larger than Switzerland.</string>
+    <string name="fact5">The dingo fence was built during the 1880s and was completed in 1885. It is maintained to this day. It is 5,614 kms (3,488 mi) long.</string>
+    <string name="fact6">The kangaroo and emu feature on Australia\'s Coat of Arms. Neither animal can easily move backwards and were chosen to symbolise a nation moving forward.</string>
+    <string name="fact7">Around 80% of Australian adults enjoy gambling, and Australia is home to 20% of the worlds poker machines. There are more poker machines in Australia than Nevada.</string>
+    <string name="fact8">The average height of Australia is 330 m (1082 ft). Mount Kosciuszko is the highest point (2,228 m / 7,309 ft), Lake Eyre is the lowest point (-15 m / -49 ft) .</string>
+    <string name="fact9">A high of 50.7 °C (123.3 °F) was recorded in Oodnadatta, South Australia on January 2nd, 1960. A low of −23.0 °C (−9.4 °F) was recorded in Charlotte Pass, New South Wales on June 29th, 1994.</string>
+    <string name="fact10">Bob Hawke entered the Guinness World Book of Records in 1954 for drinking a yard glass of ale (2.5 pints) in 11 seconds at the Turf Tavern, Oxford.</string>
+    <string name="fact11">Terra Nullius is a Latin expression meaning "nobody's land", and is a principle sometimes used in international law to describe territory that may be acquired by a state's occupation of it.</string>
+
+</resources>
